@@ -1,0 +1,25 @@
+{
+  "name": "es6-react-setup",
+  "version": "0.0.0",
+  "description": "ERROR: No README data found!",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "andrii.kondiuk",
+  "license": "BSD",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-react": "~6.5.0",
+    "babelify": "~7.2.0",
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8",
+    "webpack": "^1.12.15",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "devDependencies": {
+    "babel-loader": "~6.2.4",
+    "babel-core": "~6.7.2",
+    "babel": "~6.5.2"
+  }
+}
